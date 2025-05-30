@@ -4,10 +4,8 @@
 Make sure to organize the files in the following structure, using the DIBCO 2019 dataset as an example.:
 ```
 datasets_2019
-├── all_trainimg
+├── img
 ├── GT
-|    ————all_GTimg
-└── test
     
 ```
 
